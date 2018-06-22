@@ -1,6 +1,6 @@
-# Hiddentao.com
+# Developer Personal Website
 
-My personal website. Built using Jekyll.
+Developer Persona Website. Built using Jekyll.
 
 ## Development
 
